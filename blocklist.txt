@@ -1,0 +1,7 @@
+ns2.ttidc.com.tr.
+ns4.ttidc.com.tr.
+ns3.ttidc.com.tr.
+ns1.ttidc.com.tr.
+dns.adguard.com
+1.1.1.1
+208.67.220.220
