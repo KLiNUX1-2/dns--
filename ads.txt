@@ -1,0 +1,2 @@
+# AdGuard DNS Filter
+https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
