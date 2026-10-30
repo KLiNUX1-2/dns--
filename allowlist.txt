@@ -1,0 +1,16 @@
+m.youtube.com
+facebook.com.tr
+google.com
+youtube.com
+github.com
+tr.wikipedia.org
+en.wikipedia.org
+turkiye.gov.tr
+192.168.1.1
+192.168.0.1
+gemini.google.com
+kocailem.com
+koc.com.tr
+hepsiburada.com.tr
+dokuru.de
+dokuru.com
