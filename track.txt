@@ -1,0 +1,2 @@
+# AdGuard Tracking Protection Filter
+https://filters.adtidy.org/extension/ublock/filters/3.txt
